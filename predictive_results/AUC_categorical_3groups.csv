@@ -1,0 +1,7 @@
+Task,Input,Cohort_A_AUC,Cohort_A_min,Cohort_A_max
+prematurity,GA birth,1,1,1
+prematurity,Segmentation (52),0.541,0.5243,0.5577
+prematurity,Random 128,0.49,0.4745,0.5055
+prematurity,Random 256,0.462,0.4552,0.4688
+prematurity,Random 512,0.434,0.4241,0.4439
+prematurity,Random 1024,0.503,0.4937,0.5123

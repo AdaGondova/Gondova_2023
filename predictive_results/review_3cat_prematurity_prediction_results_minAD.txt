@@ -1,0 +1,9 @@
+Cohort A
+group_cat
+Inputs, AUC mean (std)
+GA birth, 1.000(0.000),0.999(0.000000)
+Segmentation (52) corrected, 0.541(0.027),0.555(0.040000)
+Random 128 corrected, 0.490(0.025),0.532(0.070000)
+Random 256 corrected, 0.462(0.011),0.465(0.280000)
+Random 512 corrected, 0.434(0.016),0.436(0.410000)
+Random 1024 corrected, 0.503(0.015),0.495(0.160000)
